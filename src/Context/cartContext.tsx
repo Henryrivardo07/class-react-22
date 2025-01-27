@@ -173,5 +173,4 @@ Penjelasan singkat:
 CartProvider: Komponen ini menyediakan semua data dan fungsi terkait keranjang belanja (add, remove, clear, update quantity) untuk bisa diakses oleh komponen lain dalam aplikasi.
 Reducer: cartReducer adalah fungsi untuk mengubah state keranjang berdasarkan aksi yang dikirim, seperti menambah produk, menghapus produk, atau mengubah jumlah produk.
 useCart: Hook ini memungkinkan komponen untuk mengakses state dan fungsi keranjang secara mudah tanpa harus mengambil context langsung.
-Dengan cara ini, Anda bisa menjelaskan kode dengan mudah dan memastikan bahwa setiap langkah yang diambil di dalam aplikasi dapat dipahami oleh murid atau rekan kerja.
 */

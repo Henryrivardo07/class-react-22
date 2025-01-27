@@ -122,7 +122,4 @@ Footer:
 Di bagian footer, total harga dihitung berdasarkan jumlah dan harga setiap item di cart.
 Jika form checkout belum tampil, tombol "Checkout" akan muncul. Jika form checkout sudah ditampilkan, maka form tersebut akan muncul.
 Pesan Keranjang Kosong:
-
-Jika tidak ada item di cart, maka pesan "Keranjang Anda kosong. Silakan tambahkan produk untuk melanjutkan." akan ditampilkan.
-Dengan komentar-komentar ini, diharapkan kode dapat lebih mudah dipahami, baik dari segi fungsionalitas maupun alur eksekusi yang ada di dalamnya.
 */
